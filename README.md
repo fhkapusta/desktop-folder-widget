@@ -2,6 +2,9 @@
 
 A lightweight, minimalist Windows desktop application wthat lets you instantly preview and interact with folders on your Windows desktop.
 
+<img width="487" height="262" alt="зображення" src="https://github.com/user-attachments/assets/5f8d937d-c96e-4a52-af94-1feef72c7c38" />
+
+
 ---
 
 ## Features
